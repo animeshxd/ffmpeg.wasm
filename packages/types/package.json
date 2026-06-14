@@ -2,7 +2,7 @@
   "name": "@ffmpeg/types",
   "version": "0.12.4",
   "description": "ffmpeg.wasm types",
-  "types": "types",
+  "types": "./types/index.d.ts",
   "files": [
     "types"
   ],
